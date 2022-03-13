@@ -4,7 +4,7 @@ using System.Text;
 
 namespace DemoApp1.Controllers
 {
-    class Shop
+    class ShopController
     {
     }
 }
